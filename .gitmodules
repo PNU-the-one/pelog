@@ -1,0 +1,6 @@
+[submodule "pelog-front"]
+	path = pelog-front
+	url = https://github.com/PNU-the-one/pelog-front.git
+[submodule "pelog-back"]
+	path = pelog-back
+	url = https://github.com/PNU-the-one/pelog-back.git
